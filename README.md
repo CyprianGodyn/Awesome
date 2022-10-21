@@ -1,2 +1,2 @@
 # Awesome
-the Awesome Repository
+The Awesome Repository
